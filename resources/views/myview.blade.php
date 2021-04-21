@@ -7,6 +7,6 @@
 	<title>Первая страница</title>
 </head>
 <body>
-	<h1>gthdfz cnhfybwf</h1>
+	<h1>Lorem ipsum dolor sit amet.</h1>
 </body>
 </html>
